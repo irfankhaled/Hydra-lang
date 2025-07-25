@@ -18,7 +18,7 @@
 
 ---
 
-## 📌 Version
+##  Version
 
 - **Stable Version**: `v1.4.3`
 - **Compiler ID**: `HYDRA-CMP-1143-STB`
@@ -27,7 +27,7 @@
 
 ---
 
-## 🔍 Features
+##  Features
 
 - Strong static + optional dynamic typing
 - LLVM-based fast compiler
@@ -40,7 +40,7 @@
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Using Hydra Package Manager
 
