@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hydra-lang.org/download"><img src="https://img.shields.io/badge/Download-v1.4.3-blue.svg?style=for-the-badge"/></a>
+  <a href="https://hydra-lang.netlify.app/"><img src="https://img.shields.io/badge/Download-v1.4.3-blue.svg?style=for-the-badge"/></a>
   <a href="https://hydra-lang.org/docs"><img src="https://img.shields.io/badge/Documentation-Online-brightgreen?style=for-the-badge"/></a>
   <a href="https://hydra-lang.org/playground"><img src="https://img.shields.io/badge/Try-Playground-orange?style=for-the-badge"/></a>
   <a href="https://github.com/hydra-lang/hydra-lang"><img src="https://img.shields.io/github/stars/hydra-lang/hydra-lang?style=for-the-badge"/></a>
