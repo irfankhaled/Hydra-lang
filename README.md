@@ -1,6 +1,20 @@
-# Hydra Lang
+<p align="center">
+  <img src="https://hydra-lang.org/logo.svg" alt="Hydra Lang Logo" width="120"/>
+</p>
 
-Hydra Lang is a high-performance, multi-paradigm programming language focused on simplicity, speed, and scalability. With `.hy` as its native file extension, Hydra offers a clean syntax and robust compiler for building modern software systems.
+<h1 align="center">Hydra Lang</h1>
+
+<p align="center">
+  A blazing-fast, multi-paradigm programming language with modern tooling and a minimal syntax.
+</p>
+
+<p align="center">
+  <a href="https://hydra-lang.org/download"><img src="https://img.shields.io/badge/Download-v1.4.3-blue.svg?style=for-the-badge"/></a>
+  <a href="https://hydra-lang.org/docs"><img src="https://img.shields.io/badge/Documentation-Online-brightgreen?style=for-the-badge"/></a>
+  <a href="https://hydra-lang.org/playground"><img src="https://img.shields.io/badge/Try-Playground-orange?style=for-the-badge"/></a>
+  <a href="https://github.com/hydra-lang/hydra-lang"><img src="https://img.shields.io/github/stars/hydra-lang/hydra-lang?style=for-the-badge"/></a>
+  <a href="https://github.com/hydra-lang/hydra-lang/blob/main/LICENSE"><img src="https://img.shields.io/github/license/hydra-lang/hydra-lang?style=for-the-badge"/></a>
+</p>
 
 ---
 
@@ -15,14 +29,14 @@ Hydra Lang is a high-performance, multi-paradigm programming language focused on
 
 ## 🔍 Features
 
-- Hybrid type system (static + optional dynamic)
-- High-speed LLVM-based compilation
-- Multi-paradigm syntax (Functional + OOP)
-- Built-in concurrency with lightweight threads
-- Modular architecture with native package manager
-- First-class testing and formatting tools
-- Cross-platform support (Linux, Windows, macOS)
-- Clean `.hy` syntax with rich tooling
+- Strong static + optional dynamic typing
+- LLVM-based fast compiler
+- Functional + OOP syntax
+- Thread-based concurrency
+- Modular packages (`.hy` files)
+- Cross-platform (Linux, Windows, macOS)
+- Hydra Package Manager (`hpm`)
+- Built-in test runner and formatter
 
 ---
 
